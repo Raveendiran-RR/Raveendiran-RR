@@ -37,6 +37,15 @@ I'm a technology enthusiast specializing in cutting-edge AI and cloud technologi
 
 ### 🚀 Latest & Most Active
 
+### [Docker AI Governance Simspace](https://github.com/Raveendiran-RR/Docker-AI-Governance)
+Docker AI Governance Simpaces
+
+### [Docker Surreal DB Extension](https://github.com/Raveendiran-RR/surrealdb-docker-extension)
+A Retrieval-Augmented Generation (RAG) chatbot that analyzes your WhatsApp conversations using vector embeddings and LLMs.
+
+### [Surreal DB RAG system ](https://github.com/Raveendiran-RR/surrealdb-rag-demo)
+A Docker Desktop Extension for managing and interacting with SurrealDB instances
+
 #### [Nvidia-AGX-Jetson-Thor-Docker-AI-Lab](https://github.com/Raveendiran-RR/Nvidia-AGX-Jetson-Thor-Docker-AI-Lab)
 *Updated: October 28, 2025*
 > 🚀 The definitive guide for setting up AI workloads on NVIDIA AGX Jetson Thor - Transform your Jetson into a powerful AI personal computer with Docker-based deployments
